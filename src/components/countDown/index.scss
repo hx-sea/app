@@ -1,0 +1,16 @@
+.expiryDate {
+  color: #FFE9B0;
+  font-size: 20px;
+  margin-top: 16px;
+  .hour, .minute, .second{
+    display: inline-block;
+    text-align: center;
+    width: 34px;
+    height: 32px;
+    border-radius: 4px;
+    color: #FF4000;
+    font-size: 22px;
+    background-image: linear-gradient(to top, #FFE9B0 , #FFF1CE);
+  }
+}
+
